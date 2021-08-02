@@ -1,6 +1,7 @@
 #### Code/Tools Resources:
 - Jupyter notebook - about: https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#introduction
 - Jupyter notebook - how to use this tool: https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
+- Python: https://www.python.org/
 - Seaborn: https://seaborn.pydata.org/index.html
 - Seaborn tutorial: https://seaborn.pydata.org/tutorial.html
 - Seaborn gallery: https://seaborn.pydata.org/examples/index.html
@@ -8,6 +9,8 @@
 - Seaborn `relplot()` function: https://seaborn.pydata.org/generated/seaborn.relplot.html#seaborn.relplot + https://seaborn.pydata.org/examples/faceted_lineplot.html
 - Pandas: https://pandas.pydata.org/
 - Pandas - how to read / write tabular data: https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
+- Pandas `read.json()` function: https://pandas.pydata.org/docs/reference/api/pandas.io.json.read_json.html?highlight=read_json#pandas.io.json.read_json
+- Pandas `head()` function: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html?highlight=head#pandas.DataFrame.head
 - Matplotlib: https://matplotlib.org/
 - Matplotlib `savefig` function: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.savefig.html
 - Socrata Open Data API (SODA) Docs: https://dev.socrata.com/
