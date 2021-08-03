@@ -21,6 +21,6 @@ Need to install something used in the session? Get quick links to install pages 
 ### Repo Structure
 The structure of this repo is as follows:
 - [Assessment](https://github.com/kthrog/dataviz_workshop/tree/main/assessment) - Find proposed pre- and post-assessment materials here.
-- [Materials] - Workshop materials are here, including slides, references/resources, and Jupyter notebooks - both blank (for instruction) and completed (for review).
+- [Materials](https://github.com/kthrog/dataviz_workshop/tree/main/materials) - Workshop materials are here, including slides, references/resources, and Jupyter notebooks - both blank (for instruction) and completed (for review).
 - This README
 - CC0 License
